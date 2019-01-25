@@ -1,0 +1,2 @@
+username:loginBaston
+password:admin@uniqlo.cn
