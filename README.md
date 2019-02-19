@@ -1,5 +1,6 @@
-# uniqlo_info
-uniqlo information collect T
+# uniAAAAqlo_info
+information collect T
 
 
 瓜皮
+Harmless for anybody!
