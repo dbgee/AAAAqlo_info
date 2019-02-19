@@ -1,2 +1,2 @@
 username:loginBest
-password:admin@uniAAAAAqlo.cn
+password:admin@AAAAAqlo.cn
