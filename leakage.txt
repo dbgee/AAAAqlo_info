@@ -1,2 +1,2 @@
-username:loginBaston
-password:admin@uniqlo.cn
+username:loginBest
+password:admin@uniAAAAAqlo.cn
